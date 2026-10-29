@@ -7,4 +7,4 @@ range(): Generates a sequence of numbers (e.g., range(1, 11) produces numbers fr
 2. Module Functions
 random.randint(a, b): A function from the random module that generates a random integer between specified lower and upper bounds (inclusive).
 3. User-Defined Functions
-calculate_bmi(weight, height): A custom function defined using the def keyword to calculate and return the Body Mass Index (BMI) using the formula $\frac{\text{weight}}{\text{height}^2}$.
+calculate_bmi(weight, height): A custom function defined using the def keyword to calculate and return the Body Mass Index (BMI) using the formula.
